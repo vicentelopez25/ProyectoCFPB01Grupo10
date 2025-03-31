@@ -5,3 +5,4 @@ Integrantes:
 - Sergio Luis Hernández Ensuncho
 - Camilo Andres Lopez Castro
 - Karen Johana Lopez Ramirez
+- Jose Vicente Lopez Cantor
